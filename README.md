@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24511032/README.md)
 # 🏌️ Hattiesburg Country Club - Course Strategy Guide
 
 An interactive, hole-by-hole strategy guide for Hattiesburg Country Club, personalized with custom club distances.
